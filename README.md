@@ -1,5 +1,5 @@
 <!--Banner-->
-![Prakhar Banner](./banner.png)
+
 
 <!--Night Owl image-->
 <div>
