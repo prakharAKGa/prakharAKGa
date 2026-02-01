@@ -1,8 +1,6 @@
-<!--Banner-->
-
-<!--Night Owl image-->
+<!-- Banner -->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" />
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Prakhar Srivastava!
@@ -68,73 +66,63 @@ Computer Science undergraduate with 2+ years of experience building production-g
 ### 🔥 FaithConnect
 🔗 https://github.com/prakharAKGa/Faith-Connect  
 **Tech Stack:** Flutter (GetX), Node.js, Express, MySQL, Socket.IO, Firebase FCM, Cloudinary  
-Full-stack social platform with posts, reels, followers-only feeds, real-time chat, and notifications.
 
 ---
 
 ### 🌱 SMRITI – NGO Management Platform
 🔗 https://github.com/prakharAKGa/Smriti  
-**Tech Stack:** Flutter, Node.js, Express, PostgreSQL/MySQL, REST APIs  
-Offline-first, role-based NGO governance system for attendance, academics, inventory, and donor reporting.
+**Tech Stack:** Flutter, Node.js, Express, REST APIs  
 
 ---
 
 ### 🤖 Brandify
 🔗 https://github.com/prakharAKGa/Brandify  
 **Tech Stack:** Flutter, BLoC, Hugging Face API  
-AI-powered social media content generator with high caption relevance.
 
 ---
 
 ### 🧏‍♂️ Disability Aid App
 🔗 https://github.com/prakharAKGa/Disability_App  
 **Tech Stack:** Flutter, TensorFlow Lite, Gemini AI  
-Real-time Indian Sign Language detection with AI chatbot support.
 
 ---
 
-
-<!--Trophies Section-->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=prakharAKGa&theme=algolia&row=2&column=3](https://github-profile-trophy.vercel.app/?username=prakharAKGa&theme=tokyonight&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prakharAKGa&theme=tokyonight&no-frame=true&row=2&column=3" />
 </p>
-<br />
 
-<!--Github stats Table-->
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+---
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=prakharAKGa&show_icons=true&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api?username=prakharAKGa&show_icons=true&theme=tokyonight&cache_seconds=1800" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Language Stats</strong></h3>
       <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharAKGa&layout=compact&theme=tokyonight" />
-
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharAKGa&layout=compact&theme=tokyonight&cache_seconds=1800" />
       </p>
     </td>
   </tr>
 </table>
-<br />
 
 ---
 
 <h2 align="center">📈 Contribution Graph</h2>
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakharAKGa&bg_color=0d1117&color=ffffff&line=00f9e5&point=feca57&area=true&hide_border=true" />
-</div>
+</p>
 
 ---
 
 <h2 align="center">🤝 Connect With Me</h2>
 
-<div align="center">
+<p align="center">
 <a href="mailto:srivastavaprakhar1007@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
 </a>
@@ -147,9 +135,7 @@ Real-time Indian Sign Language detection with AI chatbot support.
 <a href="https://prakhar-srivastava.vercel.app/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45"/>
 </a>
-</div>
-
-<br/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
