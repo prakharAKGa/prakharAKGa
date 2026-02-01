@@ -1,11 +1,10 @@
-<!-- Banner -->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" />
+<!-- Banner / Night Owl image -->
+<div align="right">
+  <img width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl">
 </div>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Prakhar Srivastava!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hi, I'm Prakhar Srivastava!
 *Flutter Developer | Full Stack Intern | Open Source Explorer*
-<br />
 
 <p align="left">
 Computer Science undergraduate with 2+ years of experience building production-grade mobile and backend applications using Flutter and Node.js. Passionate about scalable architectures, performance optimization, and AI-powered features.
@@ -19,7 +18,7 @@ Computer Science undergraduate with 2+ years of experience building production-g
 - 📫 Reach me at **[srivastavaprakhar1007@gmail.com](mailto:srivastavaprakhar1007@gmail.com)**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prakharAKGa&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=prakharAKGa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -39,11 +38,11 @@ Computer Science undergraduate with 2+ years of experience building production-g
 ### 📱 Frameworks & Backend
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### ☁️ Cloud & Databases
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
@@ -57,7 +56,7 @@ Computer Science undergraduate with 2+ years of experience building production-g
 ### 🤖 ML & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -66,77 +65,85 @@ Computer Science undergraduate with 2+ years of experience building production-g
 ### 🔥 FaithConnect
 🔗 https://github.com/prakharAKGa/Faith-Connect  
 **Tech Stack:** Flutter (GetX), Node.js, Express, MySQL, Socket.IO, Firebase FCM, Cloudinary  
-
----
+Full-stack social platform with posts, reels, followers-only feeds, real-time chat, and notifications.
 
 ### 🌱 SMRITI – NGO Management Platform
 🔗 https://github.com/prakharAKGa/Smriti  
-**Tech Stack:** Flutter, Node.js, Express, REST APIs  
-
----
+**Tech Stack:** Flutter, Node.js, Express, PostgreSQL/MySQL, REST APIs  
+Offline-first, role-based NGO governance system for attendance, academics, inventory, and donor reporting.
 
 ### 🤖 Brandify
 🔗 https://github.com/prakharAKGa/Brandify  
 **Tech Stack:** Flutter, BLoC, Hugging Face API  
-
----
+AI-powered social media content generator with high caption relevance.
 
 ### 🧏‍♂️ Disability Aid App
 🔗 https://github.com/prakharAKGa/Disability_App  
 **Tech Stack:** Flutter, TensorFlow Lite, Gemini AI  
+Real-time Indian Sign Language detection with AI chatbot support.
 
 ---
 
+<!-- Trophies Section -->
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prakharAKGa&theme=tokyonight&no-frame=true&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prakharAKGa&theme=tokyonight&row=2&column=3&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
----
+<br/>
 
+<!-- GitHub Stats Table -->
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=prakharAKGa&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+        <img src="https://github-readme-stats.vercel.app/api?username=prakharAKGa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Prakhar's GitHub Stats" />
       </p>
     </td>
     <td width="50%">
+      <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharAKGa&layout=compact&theme=tokyonight&cache_seconds=1800" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharAKGa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
       </p>
     </td>
   </tr>
 </table>
 
+<br/>
+
 ---
 
 <h2 align="center">📈 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakharAKGa&bg_color=0d1117&color=ffffff&line=00f9e5&point=feca57&area=true&hide_border=true" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakharAKGa&bg_color=0d1117&color=ffffff&line=00f9e5&point=feca57&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ---
 
 <h2 align="center">🤝 Connect With Me</h2>
 
-<p align="center">
-<a href="mailto:srivastavaprakhar1007@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
-</a>
-<a href="https://github.com/prakharAKGa">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-</a>
-<a href="https://www.linkedin.com/in/prakharsrivastava1007/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
-</a>
-<a href="https://prakhar-srivastava.vercel.app/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45"/>
-</a>
-</p>
+<div align="center">
+  <a href="mailto:srivastavaprakhar1007@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" alt="Email"/>
+  </a>
+  <a href="https://github.com/prakharAKGa">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prakharsrivastava1007/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn"/>
+  </a>
+  <a href="https://prakhar-srivastava.vercel.app/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45" alt="Portfolio"/>
+  </a>
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" alt="Waving footer" />
 </p>
