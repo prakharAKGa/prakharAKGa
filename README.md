@@ -5,120 +5,98 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ʜɪ, ɪ'ᴍ ᴘʀᴀᴋʜᴀʀ ꜱʀɪᴠᴀꜱᴛᴀᴠᴀ!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Prakhar Srivastava!
 *Flutter Developer | Full Stack Intern | Open Source Explorer*
 <br />
 
-<!--Start Intro-->
 <p align="left">
-I’m a Computer Science undergrad with 2+ years of experience building real-world, production-grade applications using Flutter and Node.js. I enjoy designing scalable systems, clean architectures, and integrating AI-driven features into mobile products.
+Computer Science undergraduate with 2+ years of experience building production-grade mobile and backend applications using Flutter and Node.js. Passionate about scalable architectures, performance optimization, and AI-powered features.
 </p>
 
-- 🚀 Flutter & Full-stack developer with 4+ live apps on Google Play Store  
-- 📱 Built production apps for government, enterprise, and NGO use cases  
-- 🌐 Experienced with Firebase, Appwrite, Docker, REST APIs, and real-time systems  
-- 🤖 Worked with Hugging Face, TensorFlow, and Flask for ML-powered applications  
-- 🏆 Led app development at college Cloud Computing Cell; delivered 3+ live apps  
+- 🚀 Flutter & Full-stack developer with **4+ live apps on Google Play Store**
+- 📱 Built real-world apps for government, enterprise, and NGO use cases
+- 🌐 Experience with Firebase, Appwrite, Docker, REST APIs, and real-time systems
+- 🤖 Worked with Hugging Face, TensorFlow, Flask for ML-powered applications
+- 🏆 Led app development at college Cloud Computing Cell; delivered 3+ live apps
 - 📫 Reach me at **[srivastavaprakhar1007@gmail.com](mailto:srivastavaprakhar1007@gmail.com)**
 
-<!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prakharAKGa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="prakharAKGa" />
+  <img src="https://komarev.com/ghpvc/?username=prakharAKGa&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-<h2 align="center">🧠 Tᴇᴄʜ Sᴛᴀᴄᴋ & ⚙️ Rᴇᴄᴇɴᴛ Pʀᴏᴊᴇᴄᴛs</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Skills" src="./Skills_Animation_White.gif">
-</picture>
-<br />
+<h2 align="center">🧠 Tech Stack & ⚙️ Projects</h2>
 
 ### 🛠️ Tools & Technologies
-- **Languages:** Dart, C++, C, Python, JavaScript, HTML/CSS  
-- **Frameworks:** Flutter, Node.js, Express.js, Flask  
-- **Cloud & DB:** Firebase, MongoDB, MySQL, Firestore, Appwrite  
-- **DevOps:** Docker, Git, GitHub, Postman  
-- **ML & AI:** TensorFlow, Hugging Face, MediaPipe  
+- **Languages:** Dart, C++, C, Python, JavaScript, HTML/CSS
+- **Frameworks:** Flutter, Node.js, Express.js, Flask
+- **Cloud & DB:** Firebase, MongoDB, MySQL, Firestore, Appwrite
+- **DevOps:** Docker, Git, GitHub, Postman
+- **ML & AI:** TensorFlow, Hugging Face, MediaPipe
 
 ---
 
 ## 💡 Notable Projects
 
-### 🔥 **FaithConnect**
+### 🔥 FaithConnect
 🔗 https://github.com/prakharAKGa/Faith-Connect  
 **Tech Stack:** Flutter (GetX), Node.js, Express, MySQL, Socket.IO, Firebase FCM, Cloudinary  
-A full-stack social platform connecting worshipers with verified spiritual leaders. Features include posts, reels, followers-only feeds, real-time chat, and push notifications.
+Full-stack social platform with posts, reels, followers-only feeds, real-time chat, and notifications.
 
 ---
 
-### 🌱 **SMRITI – NGO Management Platform**
+### 🌱 SMRITI – NGO Management Platform
 🔗 https://github.com/prakharAKGa/Smriti  
 **Tech Stack:** Flutter, Node.js, Express, PostgreSQL/MySQL, REST APIs  
-Offline-first, role-based NGO governance system digitizing attendance, academics, inventory, and donor reporting with analytics and multi-level access control.
+Offline-first, role-based NGO governance system for attendance, academics, inventory, and donor reporting.
 
 ---
 
-### 🤖 **Brandify**
+### 🤖 Brandify
 🔗 https://github.com/prakharAKGa/Brandify  
 **Tech Stack:** Flutter, BLoC, Hugging Face API  
-AI-powered social media content generator supporting multi-image uploads and one-tap sharing with high caption relevance.
+AI-powered social media content generator with high caption relevance.
 
 ---
 
-### 🧏‍♂️ **Disability Aid App**
+### 🧏‍♂️ Disability Aid App
 🔗 https://github.com/prakharAKGa/Disability_App  
 **Tech Stack:** Flutter, TensorFlow Lite, Gemini AI  
-Real-time Indian Sign Language detection app with voice-to-text and AI-powered chatbot support.
+Real-time Indian Sign Language detection with AI chatbot support.
 
 ---
 
-### 📰 **Tez News App**
-**Tech Stack:** Flutter, REST APIs  
-News aggregation app with 1K+ articles, category filters, and dark mode support.
-
----
-
-### 🎥 **StreamFlex**
-**Tech Stack:** Flutter, Firebase Auth, Cloud Firestore  
-Netflix-style video streaming platform with authentication and real-time content updates.
-
----
-
-### 🧠 **Face Detection Login**
-**Tech Stack:** Python, Flask, Face Recognition  
-Secure face-recognition-based authentication system using computer vision.
-
----
-
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prakharAKGa&theme=algolia&row=2&column=3" />
 </p>
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=prakharAKGa&show_icons=true&theme=tokyonight" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=prakharAKGa&count_private=true&show_icons=true&theme=tokyonight" />
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharAKGa&langs_count=6&theme=tokyonight" />
     </td>
   </tr>
 </table>
 
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakharAKGa&bg_color=0d1117&color=ffffff&line=00f9e5&point=feca57&area=true&hide_border=true" />
 </div>
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
 <a href="mailto:srivastavaprakhar1007@gmail.com">
