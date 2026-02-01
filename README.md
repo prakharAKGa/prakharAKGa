@@ -97,7 +97,7 @@ Real-time Indian Sign Language detection with AI chatbot support.
 <!--Trophies Section-->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prakharAKGa&theme=algolia&row=2&column=3" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=prakharAKGa&theme=algolia&row=2&column=3](https://github-profile-trophy.vercel.app/?username=prakharAKGa&theme=tokyonight&no-frame=true" />
 </p>
 <br />
 
@@ -109,13 +109,14 @@ Real-time Indian Sign Language detection with AI chatbot support.
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=prakharAKGa&count_private=true&show_icons=true&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api?username=prakharAKGa&show_icons=true&theme=tokyonight" />
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Language Stats</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharAKGa&langs_count=6&theme=tokyonight" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharAKGa&layout=compact&theme=tokyonight" />
+
       </p>
     </td>
   </tr>
