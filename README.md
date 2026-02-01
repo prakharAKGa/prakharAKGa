@@ -74,18 +74,26 @@ Real-time Indian Sign Language detection with AI chatbot support.
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!--Github stats Table-->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=prakharAKGa&count_private=true&show_icons=true&theme=tokyonight" />
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=prakharAKGa&count_private=true&show_icons=true&theme=tokyonight" />
+      </p>
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharAKGa&langs_count=6&theme=tokyonight" />
+    <td width="50%">
+      <h3 align="center"><strong>Language Stats</strong></h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharAKGa&langs_count=6&theme=tokyonight" />
+      </p>
     </td>
   </tr>
 </table>
+<br />
 
 ---
 
